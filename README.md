@@ -25,7 +25,7 @@ Usage:
 
 ### Automatic Decryption
 
-With no arguments specified the tool will try to automaicautomatically dump and decrypt all configured `Scanning Credentials`
+With no arguments specified the tool will try to automatically dump and decrypt all configured `Scanning Credentials`
 
 ```
 sliver (maldev) > inline-execute-assembly tool/SharpLansweeperDecrypt.exe -
