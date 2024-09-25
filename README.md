@@ -1,5 +1,10 @@
 # SharpLansweeperDecrypt
 
+<p align="center">
+  <img src="/sharplansweeperdecrypt.png" width="400">
+
+
+
 `SharpLansweeperDecrypt` is designed to automatically extract and decrypt all configured scanning credentials of a [Lansweeper](https://www.lansweeper.com) instance, provided there is local access to the server.
 
 For manual decryption, the tool is capable of decrypting passwords when supplied with both the encrypted password and the encryption key (`C:\Program Files (x86)\Lansweeper\Key\Encryption.txt`).
