@@ -1,8 +1,7 @@
 # SharpLansweeperDecrypt
 
 <p align="center">
-  <img src="/sharplansweeperdecrypt.png" width="400">
-
+  <img src="https://github.com/user-attachments/assets/36ae1a99-2c88-4a7a-b5f4-4a169bee4d26" width="400">
 
 
 `SharpLansweeperDecrypt` is designed to automatically extract and decrypt all configured scanning credentials of a [Lansweeper](https://www.lansweeper.com) instance, provided there is local access to the server.
